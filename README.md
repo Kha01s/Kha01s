@@ -9,4 +9,7 @@
 </br></br>
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXAybjU1aTV0cnh1c3N6c28wdzRycTB3bjFlMjZtam90YzhraWI2ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aT8qmIcoyPQ1EeB9DK/giphy.gif" width="12%"/>
 </br></br>
+
+[![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dual_khaos)
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@dual.khaos)
 </div>
