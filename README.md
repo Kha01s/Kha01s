@@ -4,7 +4,7 @@
 </br></br>
 <pre>
   💻 Learning ⇢ Programming | Cybersecurity | Data Analysis
-  👾 Hobbies ⇢ Books | Games | Bike | Anime | Horror movies
+  👾 Hobbies ⇢ Books | Games | Anime | Horror movies
 </pre>
 </br></br>
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXAybjU1aTV0cnh1c3N6c28wdzRycTB3bjFlMjZtam90YzhraWI2ZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aT8qmIcoyPQ1EeB9DK/giphy.gif" width="12%"/>
